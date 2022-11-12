@@ -50,83 +50,75 @@
     },
     {
       "id": 7,
-      "name": "Gosha",
+      "name": "Victor",
       "country": "Ukraine",
       "email": "gosha@gmail.com",
-      "surname": "Kartcev",
-      "age": "45"
+      "surname": "Kravchenko",
+      "age": "50"
     },
     {
       "id": 8,
-      "name": "Mahsa",
-      "country": "USA",
-      "email": "masha@gmail.com",
-      "surname": "Romanova",
-      "age": "40"
+      "name": "Leo",
+      "country": "Argentina",
+      "email": "leo@gmail.com",
+      "surname": "Messi",
+      "age": "35"
     },
     {
       "id": 9,
-      "name": "Gosha",
-      "country": "Ukraine",
-      "email": "gosha@gmail.com",
-      "surname": "Kartcev",
-      "age": "45"
+      "name": "Erling",
+      "country": "Norvegija",
+      "email": "erling@gmail.com",
+      "surname": "Halland",
+      "age": "21"
     },
     {
-      "name": "asdas",
-      "surname": "asdasd",
+      "name": "Diego",
+      "surname": "Maradonna",
       "age": "12",
       "email": "info@dreamteacher.co",
-      "country": "12312",
+      "country": "Argentina",
       "id": 10
     },
     {
-      "name": "asdsa",
-      "surname": "dsa",
-      "age": "12",
-      "email": "maxim@mail.ru",
-      "country": "asd",
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "age": "37",
+      "email": "cr7@mail.ru",
+      "country": "Portygal",
       "id": 11
     },
     {
-      "name": "asdsa",
-      "surname": "dsa",
-      "age": "12",
-      "email": "maxim@mail.ru",
-      "country": "asd",
+      "name": "Alexandr",
+      "surname": "Zinchenko",
+      "age": "25",
+      "email": "alex@mail.ru",
+      "country": "Ukraine",
       "id": 12
     },
     {
-      "name": "asdasd",
-      "surname": "asdasd",
-      "age": "12",
-      "email": "maxim@mail.ru",
-      "country": "dasdas",
+      "name": "Federico",
+      "surname": "Valverde",
+      "age": "31",
+      "email": "federiko@mail.ru",
+      "country": "Spain",
       "id": 13
     },
     {
-      "name": "dasd",
-      "surname": "sdas",
-      "age": "165",
-      "email": "vcf@mail.ru",
-      "country": "da",
+      "name": "Victor",
+      "surname": "Valdes",
+      "age": "17",
+      "email": "victor@mail.ru",
+      "country": "France",
       "id": 14
     },
     {
-      "name": "dasd",
-      "surname": "sdas",
-      "age": "165",
-      "email": "vcf@mail.ru",
-      "country": "da",
+      "name": "Lebron",
+      "surname": "James",
+      "age": "38",
+      "email": "lebron@mail.ru",
+      "country": "Spain",
       "id": 15
-    },
-    {
-      "name": "dddd",
-      "surname": "dd",
-      "age": "12",
-      "email": "maxim@mail.ru",
-      "country": "sada",
-      "id": 16
     }
   ]
 }
